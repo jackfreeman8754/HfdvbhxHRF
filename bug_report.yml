@@ -9,8 +9,6 @@ body:
 
         If you have a feature or enhancement request for the frontend, please [start an discussion][fr] instead of creating an issue.
 
-        [fr]: https://github.com/home-assistant/frontend/discussions
-        [releases]: https://github.com/home-assistant/home-assistant/releases
   - type: checkboxes
     attributes:
       description: Please verify that you've followed these steps
